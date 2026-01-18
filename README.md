@@ -144,11 +144,3 @@ If PHP-FPM isn’t running, Rainloop will show 502 Bad Gateway.
 Ensure Postfix is active for sending mail; otherwise, the webmail will show Can’t send message errors.
 
 Only one server block can listen on the same port for the same domain. Use HTTP → HTTPS redirect within a single configuration.
-
-8. References
-
-Rainloop Official Documentation
-
-Nginx HTTPS Configuration
-
-Postfix SASL Authentication
